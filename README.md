@@ -27,7 +27,7 @@ O objetivo é praticar **HTML** e **CSS** **JS**, aplicando conceitos de layout,
 
 ## 📂 Estrutura de Pastas
 
-├── Projeto-Universo-HOST
+├── Projeto-Universo-HOST.
   ├── js/
     └──script.js    #script da transição para o modo dark.
   ├── fonts/
@@ -37,7 +37,7 @@ O objetivo é praticar **HTML** e **CSS** **JS**, aplicando conceitos de layout,
     └──styless.css     # estilização da pagina principal.
   ├── html/
      └── index.html    #pagina principal     
-  ├── img/                # Imagens do projeto (logo, banner, etc.)
+  ├── img/                # Imagens do projeto (logo, banner, etc.).
 
 🚀 Como Executar:
 1 ° : git clone https://github.com/kafu14/Projeto-Login-Instagram.git  # baixe a pasta do projeto do githuh no seu computador.
